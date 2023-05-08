@@ -1,4 +1,4 @@
-# List of all Hardware vendor certificates
+# List of Hardware vendor certificates
 
 | Vendor | Technolgoy | Family |
 | ------ | ------ | ------ |
