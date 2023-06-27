@@ -1,4 +1,4 @@
-# Hardware vendors official certificates for Confidential Computing
+# Official certs for Confidential Computing
 
 | Vendor | Technolgoy | Family |
 | ------ | ------ | ------ |
